@@ -34,7 +34,7 @@ public class EarthquakeActivity extends AppCompatActivity {
         // Create a fake list of earthquake locations.
         ArrayList<Earthquake> earthquakes = new ArrayList<>();
         earthquakes.add(new Earthquake("7.2","San Francisco","Feb 2, 2016"));
-        earthquakes.add(new Earthquake("7.2","London","Feb 2, 2016"));
+        earthquakes.add(new Earthquake("3.2","London","Feb 2, 2016"));
         earthquakes.add(new Earthquake("7.2","Tokyo","Feb 2, 2016"));
         earthquakes.add(new Earthquake("7.2","Mexico City","Feb 2, 2016"));
         earthquakes.add(new Earthquake("7.2","Moscow","Feb 2, 2016"));
